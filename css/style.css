@@ -79,6 +79,9 @@ a {
         margin: 1em;
         flex-basis: calc(100% / 2 - 2.5em);
     }
+    a{
+        color: darkblue
+    }
 
 }
 
@@ -89,11 +92,11 @@ a {
     }
 }
 body{
-   background-image: url(../images/colors_2.png);
+   background-image: url(../images/colors_3.png);
    /* background: linear-gradient(to right, rgb(8, 179, 206) 0%, rgba(0, 0, 0, 0) 54%, rgb(232, 220, 35) 100%); */
    /* background-image: url("../images/ziyi_logo.png");
    background-size: 33%; */
-
+   font-family: 'Be Vietnam Pro', sans-serif;
 }
 
 .container.card{
